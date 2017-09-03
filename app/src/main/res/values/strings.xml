@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica1.1</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="circulo">Circulo</string>
+    <string name="triangulo">Triangulo Equilatero</string>
+    <string name="cubo">Cubo Perfecto</string>
+    <string name="lado">Lado</string>
+    <string name="resultado">Resultados</string>
+    <string name="calcular">Calcular</string>
+    <string name="radio">Radio</string>
+</resources>
